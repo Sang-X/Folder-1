@@ -1,0 +1,6 @@
+The idea was on logging in, a user was to initialise their own channel,
+and have it assigned to them just after clicking the login button. 
+(I've deleted the code because it's honestly embarassing with how I was fumbling 
+with it,I even tried using pusher and mixed up everything it felt hopeless) next
+was to add the code for listening if another user was online to be partnered up with 
+and they get directly sent to the chat screen immidiately and start relaying messages
