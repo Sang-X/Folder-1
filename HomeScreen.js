@@ -43,7 +43,7 @@ const HomeScreen=({navigation})=>{
             headerRight:()=>(
                 <View style={styles.mavatar}>
                     <TouchableOpacity
-                        onPress={()=> navigation.navigate("AddChat")} 
+                        onPress={()=> navigation.navigate("Chat")} 
                         activeOpacity ={0.9}>
                         <Avatar size={40} rounded source ={{uri:"https://i.pinimg.com/originals/3f/7c/f5/3f7cf5709cd374168c49728ecbbb25e5.jpg"}}/>
                     </TouchableOpacity>
