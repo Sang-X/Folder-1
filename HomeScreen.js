@@ -5,8 +5,6 @@ import {StyleSheet,SafeAreaView,View,TouchableOpacity} from "react-native";
 import {FloatingButton,FloatingButtonChild} from "react-native-action-floating-button";
 import { Feather } from "@expo/vector-icons";
 import { Image } from 'react-native';
-import {dummyData} from "./Data"; 
-import Carousel from "./Carousel";
 import {auth, db} from "../firebase";
 
 const HomeScreen=({navigation})=>{   
